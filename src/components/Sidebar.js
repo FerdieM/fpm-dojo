@@ -10,7 +10,7 @@ import React from 'react';
 
 const Sidebar = () => {
   const { user } = useAuthContext();
-  
+
   return (
     <div className="sidebar">
       <div className="sidebar-content">
